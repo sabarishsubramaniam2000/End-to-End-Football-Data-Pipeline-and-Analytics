@@ -5,12 +5,14 @@ This project implements an **end-to-end data pipeline** for extracting, processi
 
 ---
 ## Data Pipeline
-![Blank diagram](https://github.com/user-attachments/assets/a02cd338-3b91-4bb5-9eaa-38f2275fd97b)
+![Blank diagram](https://github.com/user-attachments/assets/3daa7f92-3ebb-4ce5-8d13-5bc62bf9811d)
+
 
 ---
 
 ## Downstream Tableau Dashboard
-<img width="1207" alt="Screenshot 2025-02-02 at 11 09 34 PM" src="https://github.com/user-attachments/assets/5095b523-e236-4e1a-b2c8-993316982fca" />
+<img width="1207" alt="Screenshot 2025-02-02 at 11 09 34 PM" src="https://github.com/user-attachments/assets/f928ef36-e461-46b9-ad3d-726ca1ceb1e7" />
+<a href> https://public.tableau.com/app/profile/sabarish.subramaniam3258/viz/FootballDashboardDownstreamDashboardfromEndtoEnddatapipeline/Dashboard2 </a href>
 
 ---
 
